@@ -1,4 +1,4 @@
-PROJECT DESCRIPTION
+PROJECT DESCRIPTION  
 This project on computational gravitational physics analyses raw data regarding the strain
 occurring in the arms of LIGO interferometers in case of contact with a gravitational wave.
 Gravitational waves disturb the spacetime along which it travels, and hence it causes spatial
@@ -17,7 +17,7 @@ GW150914. It lies an essential achievement in the history of science, not only b
 validates the predictions made by the General Theory of Relativity, but also because of the
 computations involved in it that make science even easier.
 
-METHODOLOGY
+METHODOLOGY  
 All data used in the project is open source, taken from 'gwosc' and 'gwpy' modules of python for
 gravitational wave analysis and 'pycbc' module for template matching to expected results (from
 General Theory of Relativity).
